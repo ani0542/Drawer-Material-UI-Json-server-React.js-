@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "title": "animesh",
+      "details": "i am a web developer",
+      "category": "todos",
+      "id": 8
+    },
+    {
+      "title": "mahesh",
+      "details": "chaudhari",
+      "category": "money",
+      "id": 9
+    },
+    {
+      "title": "arpit",
+      "details": "golang developer",
+      "category": "work",
+      "id": 10
+    },
+    {
+      "title": "traversy",
+      "details": "media",
+      "category": "reminders",
+      "id": 11
+    }
+  ]
+}
